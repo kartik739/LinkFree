@@ -1,0 +1,26 @@
+{
+  "name": "Kartik Goel",
+  "bio": "A B.Tech student trying to get into open souce world",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/kartikgoel007",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/kartikgoel001/",
+      "icon": "FalinedIn"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/_kartik.goel_/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/kartik739",
+      "icon": "FaGithub"
+    }
+  ]
+}
